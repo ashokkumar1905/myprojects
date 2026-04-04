@@ -75,7 +75,7 @@ python generate_sample.py
 streamlit run app.py
 ```
 
-Open your browser at **http://localhost:8501**
+Open your browser at **https://myprojects-wu3zgeabbz3d7upfmqqlce.streamlit.app/**
 
 ---
 
